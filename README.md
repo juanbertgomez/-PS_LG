@@ -1,0 +1,2 @@
+* El ejercicio 1 se debe ejecutar por linea de comando, la lista de números se debe introducir separada por espacio
+* El ejercicio 2 tiene 3 llamadas ajax por separado, transforma los resoltados los junta y luego la libreria pivot.js hace el agregado para las dimensiones comunes (categoria y fecha)
