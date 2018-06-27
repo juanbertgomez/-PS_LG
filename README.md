@@ -14,4 +14,4 @@ Clonar el proyecto - git clone https://github.com/juanbertgomez/-PS_LG.git
 
 * El ejercicio 2 tiene 3 llamadas ajax por separado, transforma los resoltados los junta
 * Luego la libreria [pivot.js](https://github.com/nicolaskruchten/pivottable) hace el agregado para las dimensiones comunes (categoria y fecha)
-* La libreria [Chart.js](https://www.chartjs.org) para pintar el gráfico de tarta
+* La libreria [chart.js](https://www.chartjs.org) para pintar el gráfico de tarta
