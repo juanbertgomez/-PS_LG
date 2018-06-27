@@ -1,5 +1,7 @@
 # Logtrust Coding Challenge
 
+Clonar el proyecto - git clone https://github.com/juanbertgomez/-PS_LG.git
+
 ## Ejercicio 1 (ejecución)
 
 1. Ir al directorio del proyecto `cd ~/-PS_LG/ejercicio_1`
