@@ -3,7 +3,7 @@
 ## Ejercicio 1 (ejecución)
 
 1. Ir al directorio del proyecto `cd ~/-PS_LG/ejercicio_1`
-2. Ejecutar el script `python ej_1.py`
+2. Ejecutar el script `python3 ej_1.py`
 3. Introducir una lista de números separada por espacio
 
 ## Ejercicio 2 (ejecución)
